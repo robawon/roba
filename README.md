@@ -39,4 +39,3 @@ Main Function:
 Prompt the user to enter numbers and store them in the array.
 Ask the user to choose whether to find the second or third largest number.
 Call the corresponding function and display the result.
-  
